@@ -2,7 +2,7 @@
 Welcome to my repository showcasing projects developed during my study of fundamental programming concepts at KIU (Kyrgyz International University).
 
 # Overview
-These projects represent my journey in mastering programming fundamentals, utilizing Object-Oriented Programming (OOP), Java logic, threads, and streams. The implementation of these concepts has provided me with valuable practical experience and a deeper understanding of software development.
+These projects represent my journey in mastering programming fundamentals, utilizing Object-Oriented Programming (OOP), Java logic, threads, and streams. The implementation of these concepts has provided me with valuable practical experience and a deeper understanding of software development. If you want to check out my projects go to the new-branch and explore my java projects.
 
 # Key Features
 Object-Oriented Programming (OOP): Explore projects where OOP principles are applied, demonstrating a structured and modular approach to software design.
